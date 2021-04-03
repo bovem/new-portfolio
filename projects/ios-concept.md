@@ -7,6 +7,9 @@ categories:
 - yellow
 project_bg_color: ''
 project_fg_color: ''
+technologies:
+- Python
+- Django
 
 ---
 ![](/uploads/markus-spiske-516263-unsplash.jpg)
